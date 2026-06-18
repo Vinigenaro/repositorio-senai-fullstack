@@ -14,7 +14,7 @@ const aprovadoDestaque = mediaNotas >= 9 && frequencia >= 60
 console.log(`Aluno: ${nomeAluno}`)
 console.log(`Média: ${mediaNotas}`)
 console.log(`Frequência: ${frequencia}%`)
-console.log(`Atividades entregues: ${atividadesEntregues}`)
+console.log(`Atividades entregues: ${atividadesEntregues ? "Sim" : "Não"}`)
 
 if (estaBloqueado) {
     console.log("Situação final: Reprovado")
