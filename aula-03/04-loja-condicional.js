@@ -3,7 +3,7 @@ let temCupom = false
 let ehAlunoSENAI = true
 let formaPagamento = "credito" // pix, credito, boleto
 
-const DESCONTO_CUPOM = 0.10
+const DESCONTO_CUPOM = 0.1
 const DESCONTO_PIX = 0.05
 const DESCONTO_BOLETO = 0.02
 

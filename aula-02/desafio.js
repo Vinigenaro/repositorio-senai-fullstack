@@ -7,9 +7,9 @@ let estaBloqueado = false
 
 const mediaNotas = (notaUm + notaDois) / 2
 
-const aprovado = mediaNotas >= 6 && frequencia >= 75 && atividadesEntregues === true
+const aprovado =
+    mediaNotas >= 6 && frequencia >= 75 && atividadesEntregues === true
 const aprovadoDestaque = mediaNotas >= 9 && frequencia >= 60
-
 
 console.log(`Aluno: ${nomeAluno}`)
 console.log(`Média: ${mediaNotas}`)

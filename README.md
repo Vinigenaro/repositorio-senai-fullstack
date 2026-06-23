@@ -6,8 +6,10 @@
 
 **Professor:** Gabriel Dias
 
-##  Integrantes do Trio
+## Integrantes do Trio
+
 - Tiago Henrique Padilha
 - Vinicius Genaro Fernandes
 - William Davi Georg
+
 ---

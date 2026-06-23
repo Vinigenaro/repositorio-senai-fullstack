@@ -1,44 +1,44 @@
 1. **O que é programação?**
-Programação é o processo de criar instruções para que um computador execute tarefas e resolva problemas.
+   Programação é o processo de criar instruções para que um computador execute tarefas e resolva problemas.
 
 2. **O que é um algoritmo?**
-Um algoritmo é uma sequência lógica de passos utilizada para alcançar um objetivo ou resolver um problema.
+   Um algoritmo é uma sequência lógica de passos utilizada para alcançar um objetivo ou resolver um problema.
 
 3. **Qual a diferença entre algoritmo e linguagem de programação?**
-O algoritmo representa a lógica da solução, enquanto a linguagem de programação é a forma utilizada para escrever essa solução para o computador.
+   O algoritmo representa a lógica da solução, enquanto a linguagem de programação é a forma utilizada para escrever essa solução para o computador.
 
 4. **O que é JavaScript?**
-JavaScript é uma linguagem de programação amplamente utilizada para desenvolver aplicações web e adicionar interatividade a páginas da internet.
+   JavaScript é uma linguagem de programação amplamente utilizada para desenvolver aplicações web e adicionar interatividade a páginas da internet.
 
 5. **Onde o JavaScript pode ser utilizado atualmente?**
-Atualmente, o JavaScript pode ser utilizado em navegadores, servidores, aplicativos móveis, aplicações desktop, jogos e automações.
+   Atualmente, o JavaScript pode ser utilizado em navegadores, servidores, aplicativos móveis, aplicações desktop, jogos e automações.
 
 6. **O que é o Node.js?**
-Node.js é um ambiente de execução que permite rodar código JavaScript fora do navegador.
+   Node.js é um ambiente de execução que permite rodar código JavaScript fora do navegador.
 
 7. **Qual é a função do Node.js no desenvolvimento com JavaScript?**
-O Node.js permite utilizar JavaScript no desenvolvimento de servidores, APIs, ferramentas e automações.
+   O Node.js permite utilizar JavaScript no desenvolvimento de servidores, APIs, ferramentas e automações.
 
 8. **O que é o VS Code?**
-O VS Code é um editor de código desenvolvido para facilitar a escrita, edição e manutenção de programas.
+   O VS Code é um editor de código desenvolvido para facilitar a escrita, edição e manutenção de programas.
 
 9. **Qual a diferença entre um editor de texto comum e um editor de código?**
-Um editor de código possui recursos específicos para programação, como destaque de sintaxe, autocompletar e depuração, que normalmente não estão presentes em editores de texto comuns.
+   Um editor de código possui recursos específicos para programação, como destaque de sintaxe, autocompletar e depuração, que normalmente não estão presentes em editores de texto comuns.
 
 10. **O que é o terminal?**
-O terminal é uma interface que permite interagir com o sistema operacional por meio de comandos de texto.
+    O terminal é uma interface que permite interagir com o sistema operacional por meio de comandos de texto.
 
 11. **Para que serve o comando node arquivo.js?**
-O comando node arquivo.js serve para executar um arquivo JavaScript utilizando o Node.js.
+    O comando node arquivo.js serve para executar um arquivo JavaScript utilizando o Node.js.
 
 12. **O que é uma variável?**
-Uma variável é um espaço utilizado para armazenar dados que podem ser utilizados durante a execução de um programa.
+    Uma variável é um espaço utilizado para armazenar dados que podem ser utilizados durante a execução de um programa.
 
 13. **Qual a diferença entre let e const?**
-A palavra-chave let permite alterar o valor armazenado na variável, enquanto const impede que ela receba uma nova atribuição após sua criação.
+    A palavra-chave let permite alterar o valor armazenado na variável, enquanto const impede que ela receba uma nova atribuição após sua criação.
 
 14. **O que são tipos de dados? Cite exemplos.**
-Tipos de dados são classificações que definem quais valores uma variável pode armazenar, como texto (string), números (number) e valores lógicos (boolean).
+    Tipos de dados são classificações que definem quais valores uma variável pode armazenar, como texto (string), números (number) e valores lógicos (boolean).
 
 15. **Qual a principal diferença entre JavaScript e TypeScript?**
-A principal diferença é que o TypeScript adiciona tipagem estática ao JavaScript, ajudando a identificar erros durante o desenvolvimento do código.
+    A principal diferença é que o TypeScript adiciona tipagem estática ao JavaScript, ajudando a identificar erros durante o desenvolvimento do código.

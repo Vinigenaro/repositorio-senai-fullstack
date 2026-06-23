@@ -2,7 +2,6 @@ let estaBloqueado = true
 
 if (!estaBloqueado) {
     console.log("Pode acessar")
-}
-else {
+} else {
     console.log("Não pode acessar")
 }
