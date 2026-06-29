@@ -1,7 +1,7 @@
 let alunos = [
-    {nome: "Libertô", idade: 69, curso: "Técnico em Liberdade"},
-    {nome: "Priscila", idade: 96, curso: "Técnico em Aprisionamento"},
-    {nome: "Rebeca", idade: 67, curso: "Técnico em Rebelião"}
+    { nome: "Libertô", idade: 69, curso: "Técnico em Liberdade" },
+    { nome: "Priscila", idade: 96, curso: "Técnico em Aprisionamento" },
+    { nome: "Rebeca", idade: 67, curso: "Técnico em Rebelião" },
 ]
 
 console.log(" ")

@@ -2,7 +2,7 @@ let produto = {
     nome: "Liberdade",
     preco: 10000.99,
     estoque: 1,
-    disponivel: true
+    disponivel: true,
 }
 
 console.log(" ")
@@ -24,4 +24,4 @@ console.log(`Novo Estoque: ${produto.estoque}`)
 console.log(`Disponível: ${produto.disponivel}`)
 
 let cliente = "Libertô"
-console.log (`Venda realizada para o cliente: ${cliente}`)
+console.log(`Venda realizada para o cliente: ${cliente}`)

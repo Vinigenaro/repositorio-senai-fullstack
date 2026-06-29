@@ -3,7 +3,7 @@ let jogador = {
     nivel: 10000.99,
     moedas: 10001,
     energia: 8,
-    premium: false
+    premium: false,
 }
 
 console.log(" ")
@@ -18,7 +18,6 @@ jogador.nivel = 10001
 jogador.moedas = 0.01
 jogador.energia = 1000000000000000
 jogador.premium = true
-
 
 console.log(" ")
 console.log("==== STATUS INICIAL ====")
