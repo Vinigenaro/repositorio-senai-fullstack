@@ -1,1 +1,10 @@
 /node_modules
+
+dist/
+
+*.log
+
+.env
+
+.DB_Store
+Thumbs.db
