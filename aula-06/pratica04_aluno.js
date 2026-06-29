@@ -5,7 +5,7 @@ let alunos = [
 ]
 
 console.log(" ")
-console.log("==== lISTA COM FOR ====")
+console.log("==== LISTA COM FOR ====")
 for (let i = 0; i < alunos.length; i++) {
     console.log(`Aluno: ${alunos[i].nome} | Idade: ${alunos[i].idade}`)
 }
